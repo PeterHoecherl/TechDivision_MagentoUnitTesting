@@ -23,3 +23,7 @@ src/lib/Magento/Exception.php lib/Magento/Exception.php
 src/lib/Magento/Profiler.php lib/Magento/Profiler.php
 src/lib/Magento/Test/Listener/Annotation/Rewrite.php lib/Magento/Test/Listener/Annotation/Rewrite.php
 src/lib/Magento/Test/Listener.php lib/Magento/Test/Listener.php
+
+src/dev/tests/unit/framework dev/tests/unit/framework
+src/dev/tests/unit/tmp dev/tests/unit/tmp
+
