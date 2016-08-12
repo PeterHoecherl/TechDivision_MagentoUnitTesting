@@ -7,12 +7,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/techdivision/TechDivision_MagentoUnitTesting"
+            "url": "https://github.com/PeterHoecherl/TechDivision_MagentoUnitTesting.git"
         }
     ],
     "require": {
         "php" : ">=5.3.0",
-        "phpunit/phpunit": "3.7.37",
         "mikey179/vfsStream": "1.2.0"
     },
     "config" : {
