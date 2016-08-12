@@ -26,4 +26,4 @@ src/lib/Magento/Test/Listener.php lib/Magento/Test/Listener.php
 
 src/dev/tests/unit/framework dev/tests/unit/framework
 src/dev/tests/unit/tmp dev/tests/unit/tmp
-
+src/dev/tests/unit/testsuite/TechDivision dev/tests/unit/testsuite/TechDivision
